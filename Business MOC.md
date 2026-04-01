@@ -54,6 +54,14 @@ created: 2026-04-01
 
 ## 🎯 Oportunidades
 
+| Oportunidade | Descrição | Doc |
+|--------------|-----------|-----|
+| [[Typebot-Oportunidade]] | 1000+ fluxos prontos, Odontologia inexplorado | 💰 Gold |
+| [[Agencia-de-IA-Nichos]] | Nichos de alta demanda 2026 | 🏢 |
+| [[Growth-Marketing]] | Funis, prospecção, gatilhos | 📈 |
+
+---
+
 ```dataview
 TABLE file.ctime as "Data", tags
 FROM "50-Learning/Business"

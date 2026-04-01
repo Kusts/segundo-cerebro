@@ -69,10 +69,16 @@ created: 2026-04-01
 - [[ARES]] - Sistema de recomendação
 
 ### 40-Knowledge
+- [[40-Knowledge/00-Indice]] - Índice do 40-Knowledge
 - [[Solutions]] - Soluções documentadas
 - [[Architecture]] - Arquiteturas de sistema
 - [[Claude-Code]] - Conhecimento Claude Code
 - [[Synkroo-Overview]] - Projeto SaaS clínicas
+- [[40-Knowledge/Business/Agencia-de-IA-Nichos]] - Nichos agência
+- [[40-Knowledge/Business/Typebot-Oportunidade]] - Oportunidade Typebot
+- [[40-Knowledge/Codigo/Vibe-Coding-Metodologia]] - Vibe coding
+- [[40-Knowledge/Codigo/Stack-Tecnico]] - Stack técnico
+- [[99-Templates/Tag-Schema]] - Schema de tags
 
 ### 05-Skills
 - [[Skills Index]] - Índice de todas as skills

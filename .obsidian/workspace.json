@@ -11,10 +11,14 @@
             "id": "9674e9ae7e54ea69",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "00-MOC-Sessions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00-MOC-Sessions"
             }
           }
         ]
@@ -100,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00-MOC-Sessions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos"
+              "title": "Links inversos para 00-MOC-Sessions"
             }
           },
           {
@@ -220,6 +225,24 @@
   },
   "active": "9674e9ae7e54ea69",
   "lastOpenFiles": [
+    "00-Inbox/session-sess-1775078689268-ut4phbrae.md",
+    "99-Templates/Tag-Schema.md",
+    "70-Archive/Temp-Limpados-20260401-FINAL/CONSOLIDADO-Conhecimentos-2026-04-01.md",
+    "40-Knowledge/Business/Growth-Marketing.md",
+    "40-Knowledge/Business/Agencia-de-IA-Regras.md",
+    "40-Knowledge/Codigo/Stack-Tecnico.md",
+    "40-Knowledge/Codigo/Vibe-Coding-Metodologia.md",
+    "40-Knowledge/Codigo",
+    "40-Knowledge/Business/Typebot-Oportunidade.md",
+    "40-Knowledge/Business/Agencia-de-IA-Nichos.md",
+    "70-Archive/Temp-Limpados-20260401-FINAL/feature-note-1774220800513-15k1airm4.md",
+    "70-Archive/Temp-Limpados-20260401-FINAL/claude-code.md",
+    "70-Archive/Temp-Limpados-20260401-FINAL",
+    "70-Archive/Logs/Orphans-20260401.txt",
+    "00-MOC.md",
+    "Dashboard Learning.md",
+    "20-Projects/claude-code.md",
+    "20-Projects",
     "30-Auto-Doc/Errors",
     "30-Auto-Doc/Reports",
     "20-Systems/SAE/07-Skills",
@@ -228,12 +251,7 @@
     "70-Archive/Logs/vault-maintenance-cron.log",
     "70-Archive/Logs/Maintenance-Report-2026-04-01.md",
     "70-Archive/Temp-Limpados-20260401/feature-note-1774220800513-15k1airm4.md",
-    "70-Archive/Temp-Limpados-20260401",
-    "99-Templates/scripts/vault-maintenance.sh",
     "99-Templates/QuickAdd-Macros.md",
-    "99-Templates/scripts/vault-link-suggestions.sh",
-    "99-Templates/scripts/vault-report.sh",
-    "99-Templates/scripts/vault-organize.sh",
     "00-Inbox/session-sess-1775074896624-x5jjgl6ov.md",
     "40-Knowledge/N8N/00-Index.md",
     "40-Knowledge/Solutions/00-Index.md",
@@ -243,23 +261,10 @@
     "70-Archive/Temp-Limpados-2026-04-01/40-Knowledge-2026/03/final-test.md",
     "40-Knowledge/00-Indice.md",
     "99-Templates/TEMPLATE-Project.md",
-    "99-Templates/TEMPLATE-Dashboard.md",
     "Canvas Skills Tree.canvas",
-    "99-Templates/TEMPLATE-Kanban.md",
     "Canvas Knowledge Graph.canvas",
     "Canvas AI-Agent Architecture.canvas",
     "Sem título.canvas",
-    "Dashboard Learning.md",
-    "Kanban Hermes Development.md",
-    "Dashboard Projects.md",
-    "Kanban OpenClaw Swarm.md",
-    "Untitled Kanban.md",
-    "Dashboard Overview.md",
-    "Kanban SAE Development.md",
-    "Skills Index.md",
-    "70-Archive/Temp-Limpados-2026-04-01/ARES-03-Knowledge/Gaps/Gap - gap_0010 - não-sabe-não-sei-como-fazer-deploy-no-railway.md",
-    "70-Archive/Temp-Limpados-2026-04-01/ARES-03-Knowledge/Gaps/Gap - gap_0009 - erro-error-code-400-type-error-error-type.md",
-    "70-Archive/Temp-Limpados-2026-04-01/ARES-03-Knowledge/Gaps/Gap - gap_0008 - erro-error-code-400-type-error-error-type.md",
     "Canvas Projects Overview.canvas"
   ]
 }

@@ -57,9 +57,18 @@ LIMIT 15
 ## 🧩 Scripts & Ferramentas
 
 | Script | Descrição |
-|--------|-----------|
+|--------|--------|
 | [[Chrome Browser Automation]] | Automação via Chrome DevTools |
 | [[Web Scraping Scripts]] | Extração de dados |
+| [[Stack-Tecnico]] | Stack técnico (n8n, Windmill, Typebot) |
+
+## 🔗 Stack Técnico (Automação)
+
+```dataview
+TABLE file.link AS "Stack", file.mtime AS "Atualizado"
+FROM ""
+WHERE contains(file.name, "Stack-Tecnico")
+```
 
 ---
 
