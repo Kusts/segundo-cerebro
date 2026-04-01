@@ -89,4 +89,4 @@ O Claude Code é um "harnês agêntico" que transforma modelos de linguagem em d
 - [[40-Knowledge/Claude-Code/claude-code-guia-completo-notebooklm.md|Claude Code - Guia Completo (Fontes do NotebookLM)]]
 
 ---
-*Criado: 2026-04-01 19:44*
+*Criado: 2026-04-01 19:49*
