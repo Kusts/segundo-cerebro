@@ -1,0 +1,22 @@
+{
+  "autoBackupInterval": 240,
+  "autoBackupOnClose": true,
+  "autoPush": true,
+  "autoPull": false,
+  "autoPullOnOpen": false,
+  "commitDateFormat": "YYYY-MM-DD HH:mm",
+  "commitMessage": "Auto-backup {{date}}",
+  "disablePush": false,
+  "excludePatterns": "",
+  "includePatterns": "",
+  "lastPush": "2026-04-01T16:00:00.000Z",
+  "localStore": "",
+  "maxBackupSize": 10,
+  "nextBackup": "2026-04-01T20:00:00.000Z",
+  "pullChangesOnOpen": false,
+  "showStatusBar": true,
+  "submodules": false,
+  "syncMethod": "merge",
+  "updateTimer": 30,
+  "vendor": "auto"
+}

@@ -1,28 +1,7 @@
-# Obsidian
-.obsidian/
-!.obsidian/community-plugins.json
-!.obsidian/plugins/
-
-# Ambiente
-.smart-env/
-
-# Templates/Scripts (repositorio separado)
-# 99-Templates/
-
-# Temporarios
+# So ignorar temporarios
 *.tmp
 *.bak
 *~
-
-# OS
 .DS_Store
 Thumbs.db
-
-# OneDrive (se usar)
-OneDrive*
-
-# Logs
 *.log
-
-# Backup (local)
-_BACKUP*
