@@ -220,6 +220,12 @@
   },
   "active": "9674e9ae7e54ea69",
   "lastOpenFiles": [
+    "30-Auto-Doc/Errors",
+    "30-Auto-Doc/Reports",
+    "20-Systems/SAE/07-Skills",
+    "20-Systems/SAE/05-Cycles",
+    "20-Systems/SAE/01-Decisoes",
+    "70-Archive/Logs/vault-maintenance-cron.log",
     "70-Archive/Logs/Maintenance-Report-2026-04-01.md",
     "70-Archive/Temp-Limpados-20260401/feature-note-1774220800513-15k1airm4.md",
     "70-Archive/Temp-Limpados-20260401",
@@ -228,8 +234,6 @@
     "99-Templates/scripts/vault-link-suggestions.sh",
     "99-Templates/scripts/vault-report.sh",
     "99-Templates/scripts/vault-organize.sh",
-    "99-Templates/scripts/vault-backup.sh",
-    "99-Templates/scripts/vault-health-check.sh",
     "00-Inbox/session-sess-1775074896624-x5jjgl6ov.md",
     "40-Knowledge/N8N/00-Index.md",
     "40-Knowledge/Solutions/00-Index.md",
@@ -237,8 +241,6 @@
     "00-Inbox/session-sess-1775074782367-c1ggml1p3.md",
     "70-Archive/Temp-Limpados-2026-04-01/40-Knowledge-2026/03/integration-test.md",
     "70-Archive/Temp-Limpados-2026-04-01/40-Knowledge-2026/03/final-test.md",
-    "70-Archive/Temp-Limpados-2026-04-01/40-Knowledge-2026/03",
-    "70-Archive/Temp-Limpados-2026-04-01/40-Knowledge-2026",
     "40-Knowledge/00-Indice.md",
     "99-Templates/TEMPLATE-Project.md",
     "99-Templates/TEMPLATE-Dashboard.md",
@@ -258,8 +260,6 @@
     "70-Archive/Temp-Limpados-2026-04-01/ARES-03-Knowledge/Gaps/Gap - gap_0010 - não-sabe-não-sei-como-fazer-deploy-no-railway.md",
     "70-Archive/Temp-Limpados-2026-04-01/ARES-03-Knowledge/Gaps/Gap - gap_0009 - erro-error-code-400-type-error-error-type.md",
     "70-Archive/Temp-Limpados-2026-04-01/ARES-03-Knowledge/Gaps/Gap - gap_0008 - erro-error-code-400-type-error-error-type.md",
-    "70-Archive/Temp-Limpados-2026-04-01/ARES-03-Knowledge/Gaps/Gap - gap_0007 - erro-oserror-valueerror-handling-em-pipes-quebrados.md",
-    "70-Archive/Temp-Limpados-2026-04-01/ARES-03-Knowledge/Skills",
     "Canvas Projects Overview.canvas"
   ]
 }
