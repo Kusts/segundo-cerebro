@@ -89,4 +89,4 @@ Framework que fornece um conjunto padronizado de ferramentas (actions) para agen
 - [[40-Knowledge/Claude-Code/inicializacao-hermes-gateway.md|Inicialização do Hermes Gateway e Agent - 2026-03-16]]
 
 ---
-*Criado: 2026-04-01 16:34*
+*Criado: 2026-04-01 16:39*

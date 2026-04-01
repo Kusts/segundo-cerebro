@@ -169,9 +169,19 @@
               "icon": "smart-connections",
               "title": "Connections"
             }
+          },
+          {
+            "id": "20fe52b6f56e0bd6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -193,11 +203,15 @@
       "smart-connections:Smart Connections: Open connections view": false,
       "smart-connections:Smart Connections: Open random connection": false,
       "smart-connections:Smart Lookup: Open lookup view": false,
-      "terminal:Open terminal": false
+      "terminal:Open terminal": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
   "active": "8721cc28f6c90d67",
   "lastOpenFiles": [
+    "00-Inbox/session-sess-1775072627090-wcrxparnu.md",
+    "99-Templates/scripts/vault-analise.sh",
     "00-Inbox/session-sess-1775071735089-2ac5dp1yj.md",
     "40-Knowledge/2026-04-01-nota-de-teste-cli.md",
     "99-Templates/scripts/README.md",
@@ -217,7 +231,6 @@
     "00-Inbox/session-sess-1775069707085-3hc73x360.md",
     "30-Auto-Doc/YouTube/sedIbSyvc",
     "30-Auto-Doc/YouTube/sedLGUhRb",
-    "30-Auto-Doc/YouTube/sedA7oai8",
     "00-Inbox/session-sess-1775069530316-dckcrosfg.md",
     "00-Inbox/session-sess-1775066805717-mao5yig2c.md",
     "30-Auto-Doc/Business/Agencia-de-IA-Guia-Completo.md",
@@ -232,7 +245,6 @@
     "_BACKUP_ORGANIZACAO_20260401_142117/70-Archive_duplicates/💰 Aprendizados- Livros de Riqueza.md",
     "30-Auto-Doc/AI-Agents/❌ Erro- ConnectionError.md",
     "01-Daily/📚 Sessão 20260319_103728.md",
-    "00-Inbox/session-sess-1775064459634-55o17jkwr.md",
-    "40-Knowledge/Solutions/sae-vault-organization-2026-04-01.md"
+    "00-Inbox/session-sess-1775064459634-55o17jkwr.md"
   ]
 }
