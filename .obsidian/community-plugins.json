@@ -1,18 +1,18 @@
 [
+  "dataview",
+  "editing-toolbar",
+  "obsidian-advanced-uri",
   "obsidian-excalidraw-plugin",
   "obsidian-git",
-  "templater-obsidian",
-  "dataview",
-  "obsidian-tasks-plugin",
   "obsidian-kanban",
-  "omnisearch",
-  "smart-connections",
-  "obsidian-advanced-uri",
-  "terminal",
+  "obsidian-pandoc",
   "obsidian-shellcommands",
-  "surfing",
+  "obsidian-tasks-plugin",
+  "omnisearch",
   "quickadd",
   "recent-files-obsidian",
-  "tab-switcher",
-  "editor-width-slider"
+  "smart-connections",
+  "surfing",
+  "templater-obsidian",
+  "terminal"
 ]
