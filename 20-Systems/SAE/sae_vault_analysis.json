@@ -1,0 +1,250 @@
+{
+  "topics": [
+    "AI Agents (n8n, Composio, CrewAI)",
+    "Claude Code - CLI tool para desenvolvimento assistido por IA",
+    "Vibe Coding - desenvolvimento com IA via linguagem natural",
+    "Software Architecture - DDD, Event-Driven, Microservices",
+    "Python async patterns",
+    "Type safety",
+    "Performance optimization",
+    "Multi-modal models",
+    "Agentic RAG",
+    "Context optimization for LLMs",
+    "Feature Flags (LaunchDarkly)",
+    "CI/CD pipelines",
+    "Deploy em Railway",
+    "Obsidian vault management",
+    "SAE - Sistema de Auto-Evolução"
+  ],
+  "skills": [
+    "Desenvolvimento Python",
+    "CLI tools (Claude Code)",
+    "AI Agent SDKs (n8n, Composio, CrewAI)",
+    "Feature Flags Implementation",
+    "Testes unitarios e E2E",
+    "TypeScript",
+    "LaunchDarkly integration",
+    "Obsidian vault organization",
+    "Skill creation (Hermes SAE)",
+    "CI/CD setup",
+    "Deploy em Railway",
+    "Synkroo project management"
+  ],
+  "projects": [
+    {
+      "name": "Synkroo",
+      "status": "near_complete",
+      "description": "SaaS de automacao com IA para clinicas",
+      "iterations": "2.0 e 3.0 completas (354 SP)",
+      "next": "Iteracao 4.0 - Escala, Mobile App, Micro-frontends",
+      "features": [
+        "Testes unitarios + E2E",
+        "Feature Flags (LaunchDarkly)",
+        "Performance (Bundle 450KB, FCP 0.5s)",
+        "LGPD Compliance + RLS",
+        "Evolution API + Webhooks + Push + Email",
+        "Dashboard Analytics",
+        "i18n (PT-BR/EN)",
+        "API Publica + Rate Limiting",
+        "White-label"
+      ]
+    },
+    {
+      "name": "Hermes Gateway",
+      "status": "active",
+      "description": "Gateway de agentes com Telegram integration",
+      "version": "v3+"
+    },
+    {
+      "name": "Segundo Cerebro (Obsidian Vault)",
+      "status": "active",
+      "description": "Sistema de memoria de longo prazo",
+      "notes": "260+ notas",
+      "health": "100/100"
+    }
+  ],
+  "patterns": [
+    {
+      "id": "Pattern-1",
+      "frequency": "based on 3 decisions",
+      "success_rate": "67%",
+      "description": "Base pattern"
+    },
+    {
+      "id": "Pattern-2",
+      "frequency": "based on 18 decisions",
+      "success_rate": "92%",
+      "description": "Most used pattern"
+    },
+    {
+      "id": "Pattern-3",
+      "frequency": "based on 3 decisions",
+      "success_rate": "100%",
+      "description": "High confidence pattern"
+    },
+    {
+      "id": "Pattern-4",
+      "frequency": "based on 3 decisions",
+      "success_rate": "100%",
+      "description": "High confidence pattern"
+    }
+  ],
+  "gaps": [
+    {
+      "id": "gap_0001",
+      "type": "knowledge",
+      "priority": "medium",
+      "status": "resolved",
+      "description": "Nao sabe fazer deploy no Railway",
+      "resolved_date": "2026-03-21"
+    },
+    {
+      "id": "gap_0002",
+      "type": "error",
+      "priority": "high",
+      "status": "resolved",
+      "description": "ModuleNotFoundError: No module named 'requests'",
+      "resolved_date": "2026-03-21"
+    },
+    {
+      "id": "gap_0003",
+      "type": "error",
+      "priority": "high",
+      "status": "resolved",
+      "description": "ModuleNotFoundError: No module named 'numpy'",
+      "resolved_date": "2026-03-21"
+    },
+    {
+      "id": "gap_0004",
+      "type": "error",
+      "priority": "high",
+      "status": "resolved",
+      "description": "Another Hermes gateway already using Telegram port",
+      "resolved_date": "2026-03-21"
+    },
+    {
+      "id": "gap_0005",
+      "type": "error",
+      "priority": "high",
+      "status": "resolved",
+      "description": "ModuleNotFoundError: 'reques' typo",
+      "resolved_date": "2026-03-21"
+    },
+    {
+      "id": "gap_0006",
+      "type": "knowledge",
+      "priority": "medium",
+      "status": "resolved",
+      "description": "Gateway port 5000 analysis",
+      "resolved_date": "2026-03-21"
+    },
+    {
+      "id": "gap_0007",
+      "type": "error",
+      "priority": "high",
+      "status": "resolved",
+      "description": "OSError + ValueError handling em pipes quebrados",
+      "resolved_date": "2026-03-23"
+    },
+    {
+      "id": "gap_0008",
+      "type": "error",
+      "priority": "high",
+      "status": "resolved",
+      "description": "Error code 400 - invalid_request",
+      "resolved_date": "2026-03-23"
+    },
+    {
+      "id": "gap_0009",
+      "type": "error",
+      "priority": "high",
+      "status": "resolved",
+      "description": "Error code 400 - invalid_request (recorrente)",
+      "resolved_date": "2026-03-25"
+    },
+    {
+      "id": "gap_0010",
+      "type": "knowledge",
+      "priority": "medium",
+      "status": "resolved",
+      "description": "Nao sabe fazer deploy no Railway (recorrente)",
+      "resolved_date": "2026-03-25"
+    },
+    {
+      "id": "GAP-20260329205331",
+      "type": "knowledge",
+      "severity": "low",
+      "status": "open",
+      "description": "Falta testar integracao completa com Telegram"
+    }
+  ],
+  "decisions": [
+    {
+      "id": "DEC-20260326095103",
+      "decision": "Criou skill railway-deploy",
+      "outcome": "success",
+      "date": "2026-03-26",
+      "tags": [
+        "skill_creation",
+        "deploy"
+      ]
+    },
+    {
+      "id": "DEC-20260326095103",
+      "decision": "Ignorou gap de Kubernetes",
+      "outcome": "failed",
+      "date": "2026-03-26",
+      "tags": [
+        "gap_resolution",
+        "kubernetes"
+      ]
+    },
+    {
+      "id": "DEC-20260326095103",
+      "decision": "Delegou research para subagente",
+      "outcome": "success",
+      "date": "2026-03-26",
+      "tags": [
+        "delegate",
+        "research"
+      ]
+    },
+    {
+      "id": "DEC-20260326103311",
+      "decision": "Fazer deploy no Railway",
+      "outcome": "success",
+      "date": "2026-03-26",
+      "tags": [
+        "deploy",
+        "railway"
+      ]
+    },
+    {
+      "id": "DEC-20260326103634",
+      "decision": "Configurar CI/CD",
+      "outcome": "success",
+      "date": "2026-03-26",
+      "tags": [
+        "cicd",
+        "github"
+      ]
+    }
+  ],
+  "technologies": [
+    "Python",
+    "TypeScript",
+    "Node.js",
+    "Claude Code (CLI)",
+    "n8n",
+    "Composio",
+    "CrewAI",
+    "LaunchDarkly",
+    "Supabase",
+    "Railway",
+    "GitHub Actions",
+    "Obsidian",
+    "Telegram API",
+    "HerMES Gateway",
+    "SAE System"
+  ]
+}
