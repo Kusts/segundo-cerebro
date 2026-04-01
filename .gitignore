@@ -1,7 +1,17 @@
-# So ignorar temporarios
+# Smart env (logs de embedding)
+.smart-env/
+
+# Backups locais
+_BACKUP*
+_BACKUP_ORGANIZACAO*
+
+# Temporarios
 *.tmp
 *.bak
 *~
 .DS_Store
 Thumbs.db
 *.log
+
+# OneDrive
+OneDrive*
