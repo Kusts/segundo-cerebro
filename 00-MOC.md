@@ -31,12 +31,17 @@ created: 2026-04-01
 
 | Dashboard | Descrição |
 |-----------|-----------|
+| [[Dashboard: Overview]] | Visão geral do vault |
+| [[Dashboard: Projects]] | Status de projetos |
+| [[Dashboard: Learning]] | Aprendizados |
 | [[Canvas: Skills Tree]] | Árvore de habilidades |
 | [[Canvas: Projects Overview]] | Visão de projetos |
 | [[Canvas: Knowledge Graph]] | Grafo de conhecimento |
 | [[Canvas: AI-Agent Architecture]] | Arquitetura AI-Agent |
 | [[Kanban: Synkroo]] | Quadro Synkroo |
 | [[Kanban: Hermes Development]] | Desenvolvimento Hermes |
+| [[Kanban: OpenClaw Swarm]] | OpenClaw Swarm |
+| [[Kanban: SAE Development]] | SAE Development |
 | [[SAE Dashboard]] | Sistema de Auto-Evolução |
 
 ---

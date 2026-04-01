@@ -3,52 +3,91 @@ tags: [moc, {{domain}}]
 created: {{date}}
 modified: {{date}}
 type: moc
+description: Mapa de Conhecimento {{domain}}
 ---
 
-# MOC-{{domain}}
+# {{domain}} MOC
 
-> **Última atualização:** {{date}}
-> **Status:** ✅ ATUALIZADO
+> **Domínio:** {{domain}}
+> **Criado:** {{date}}
+> **Status:** 🟢 Ativo
 
 ---
 
-## Visão Geral
+## 🎯 Visão Geral
 
 {{overview}}
 
 ---
 
-## Conteúdo Principal
+## 📚 Conteúdo Principal
 
-### Categoria 1
+### Notas em Destaque
 
-| Arquivo | Descrição |
-|---------|-----------|
-| [[nota1]] | Descrição |
-| [[nota2]] | Descrição |
+```dataview
+TABLE WITHOUT ID
+file.link AS "Nota",
+file.mtime AS "Atualizado"
+FROM "{{folder}}"
+WHERE file.extension = "md"
+SORT file.mtime DESC
+LIMIT 10
+```
 
-### Categoria 2
+---
 
-| Arquivo | Descrição |
-|---------|-----------|
-| [[nota3]] | Descrição |
+## 🗂️ Estrutura
+
+```
+{{domain}}/
+├── {{subfolder-1}}/
+├── {{subfolder-2}}/
+└── {{subfolder-3}}/
+```
+
+---
+
+## 📋 Notas Relacionadas
+
+| Nota | Descrição | Status |
+|------|-----------|--------|
+| [[{{note-1}}]] | {{desc-1}} | 🟢 |
+| [[{{note-2}}]] | {{desc-2}} | 🟡 |
+
+---
+
+## 🛠️ Recursos
+
+| Tool | Uso | Docs |
+|------|-----|------|
+| {{tool-1}} | {{use-1}} | [[{{docs-1}}]] |
 
 ---
 
 ## 📊 Métricas
 
-| Métrica | Valor |
-|---------|-------|
-| Total de notas | {{count}} |
-| Última atualização | {{date}} |
+```dataview
+TABLE WITHOUT ID
+length(rows) AS "Notas"
+FROM "{{folder}}"
+WHERE file.extension = "md"
+```
 
 ---
 
-## 🔗 Links Rápidos
+## ✅ Progresso
 
-- [[MOC-Other1]]
-- [[MOC-Other2]]
+- [x] MOC criado
+- [ ] Conteúdo adicionado
+- [ ] Revisado
 
 ---
 
-> MOC maintained by Hermes
+## 🔗 Links
+
+- [[00-MOC]] - Mapa raiz
+- [[{{related-moc}}]]
+
+---
+
+> Mantido por Hermes
