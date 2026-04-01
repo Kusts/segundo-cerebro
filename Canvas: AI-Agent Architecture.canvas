@@ -1,0 +1,95 @@
+{
+  "nodes": [
+    {
+      "id": "header",
+      "type": "text",
+      "text": "# 🤖 AI-Agent Architecture\n\n## Stack Completo\n\nHermes + OpenClaw + SAE",
+      "x": 350,
+      "y": -50,
+      "width": 300,
+      "height": 100
+    },
+    {
+      "id": "user",
+      "type": "text",
+      "text": "## 👤 User\n\nWalis\n\nCLI / Telegram / WhatsApp",
+      "x": 0,
+      "y": 100,
+      "width": 150,
+      "height": 100
+    },
+    {
+      "id": "hermes-gateway",
+      "type": "text",
+      "text": "## Hermes Gateway\n\n- Session Management\n- Memory System\n- Tool Orchestration\n- Multi-Model Support",
+      "x": 200,
+      "y": 100,
+      "width": 200,
+      "height": 130
+    },
+    {
+      "id": "sae",
+      "type": "text",
+      "text": "## SAE\n\nSelf-Adaptive Evolution\n\n- Effectiveness Metrics\n- Gap Detection\n- Auto-Evolution\n- Learning Loop",
+      "x": 450,
+      "y": 100,
+      "width": 200,
+      "height": 130
+    },
+    {
+      "id": "claude-code",
+      "type": "text",
+      "text": "## Claude Code\n\nCoding Agent\n\n- Code Generation\n- Code Review\n- Refactoring\n- Testing",
+      "x": 700,
+      "y": 100,
+      "width": 150,
+      "height": 100
+    },
+    {
+      "id": "openclaw",
+      "type": "text",
+      "text": "## OpenClaw\n\nFramework\n\n- Claw-Swarm\n- Skill System\n- Tool Registry\n- Memory Integration",
+      "x": 200,
+      "y": 280,
+      "width": 200,
+      "height": 120
+    },
+    {
+      "id": "agents",
+      "type": "text",
+      "text": "## Sub-Agents\n\n- Code Interpreter\n- Web Searcher\n- File Manager\n- API Caller\n- Terminal Runner",
+      "x": 450,
+      "y": 280,
+      "width": 200,
+      "height": 120
+    },
+    {
+      "id": "tools",
+      "type": "text",
+      "text": "## Tools\n\n- Telegram Bot\n- WhatsApp (Baileys)\n- GitHub API\n- Google Drive\n- Claude API\n- Windmill/n8n",
+      "x": 700,
+      "y": 280,
+      "width": 150,
+      "height": 120
+    },
+    {
+      "id": "memory",
+      "type": "text",
+      "text": "## Memory\n\n- Session Memory\n- Long-term (Obsidian)\n- Skills Database\n- SAE Learnings",
+      "x": 0,
+      "y": 280,
+      "width": 150,
+      "height": 100
+    }
+  ],
+  "edges": [
+    {"id": "e1", "fromNode": "user", "toNode": "hermes-gateway", "fromSide": "right", "toSide": "left"},
+    {"id": "e2", "fromNode": "hermes-gateway", "toNode": "sae", "fromSide": "right", "toSide": "left"},
+    {"id": "e3", "fromNode": "hermes-gateway", "toNode": "claude-code", "fromSide": "right", "toSide": "left"},
+    {"id": "e4", "fromNode": "hermes-gateway", "toNode": "openclaw", "fromSide": "bottom", "toSide": "top"},
+    {"id": "e5", "fromNode": "openclaw", "toNode": "agents", "fromSide": "right", "toSide": "left"},
+    {"id": "e6", "fromNode": "agents", "toNode": "tools", "fromSide": "right", "toSide": "left"},
+    {"id": "e7", "fromNode": "memory", "toNode": "hermes-gateway", "fromSide": "right", "toSide": "left"},
+    {"id": "e8", "fromNode": "memory", "toNode": "openclaw", "fromSide": "right", "toSide": "left"}
+  ]
+}

@@ -30,7 +30,7 @@ Gap detectado e resolvido pelo SAE Auto-Evolution
 
 ### Fontes:
 - [[40-Knowledge/Solutions/sae-vault-organization-2026-04-01.md|SAE: vault organization]]
-- [[03-Knowledge/SAE-Learnings/Hermes-Work-System-v2.md|Hermes Work System - Sistema de Trabalho Inteligente]]
+- [[03-Knowledge/SAE_Learnings/Hermes-Work-System-v2.md|Hermes Work System - Sistema de Trabalho Inteligente]]
 
 ---
-*Criado: 2026-04-01 17:05*
+*Criado: 2026-04-01 17:10*

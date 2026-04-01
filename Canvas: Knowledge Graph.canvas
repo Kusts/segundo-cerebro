@@ -1,0 +1,155 @@
+{
+  "nodes": [
+    {
+      "id": "root",
+      "type": "text",
+      "text": "# 🧠 Knowledge Graph\n\n## Segundo Cérebro\n\nWalis + Hermes\n\nConhecimento conectado",
+      "x": 400,
+      "y": 0,
+      "width": 250,
+      "height": 100
+    },
+    {
+      "id": "ai-agents",
+      "type": "file",
+      "file": "AI-Agents MOC",
+      "x": 0,
+      "y": 150,
+      "width": 180,
+      "height": 100
+    },
+    {
+      "id": "development",
+      "type": "file",
+      "file": "Development MOC",
+      "x": 200,
+      "y": 150,
+      "width": 180,
+      "height": 100
+    },
+    {
+      "id": "automation",
+      "type": "file",
+      "file": "Automation MOC",
+      "x": 400,
+      "y": 150,
+      "width": 180,
+      "height": 100
+    },
+    {
+      "id": "business",
+      "type": "file",
+      "file": "Business MOC",
+      "x": 600,
+      "y": 150,
+      "width": 180,
+      "height": 100
+    },
+    {
+      "id": "learning",
+      "type": "file",
+      "file": "Learning MOC",
+      "x": 800,
+      "y": 150,
+      "width": 180,
+      "height": 100
+    },
+    {
+      "id": "hermes",
+      "type": "text",
+      "text": "## Hermes\n\n- Gateway\n- SAE\n- Skills\n- Memory",
+      "x": 0,
+      "y": 300,
+      "width": 150,
+      "height": 120
+    },
+    {
+      "id": "openclaw",
+      "type": "text",
+      "text": "## OpenClaw\n\n- Claw-Swarm\n- Multi-Agent\n- Skills",
+      "x": 180,
+      "y": 300,
+      "width": 150,
+      "height": 120
+    },
+    {
+      "id": "sae",
+      "type": "text",
+      "text": "## SAE\n\n- Self-Evolution\n- Gap Tracking\n- Learnings\n- Decisions",
+      "x": 360,
+      "y": 300,
+      "width": 150,
+      "height": 120
+    },
+    {
+      "id": "ares",
+      "type": "text",
+      "text": "## ARES\n\n- Recommendation\n- Cycles\n- Gaps\n- Skills",
+      "x": 540,
+      "y": 300,
+      "width": 150,
+      "height": 120
+    },
+    {
+      "id": "synkroo",
+      "type": "text",
+      "text": "## Synkroo\n\n- SaaS Clínicas\n- Multi-Agent\n- Feature Flags\n- Analytics",
+      "x": 720,
+      "y": 300,
+      "width": 150,
+      "height": 120
+    },
+    {
+      "id": "n8n",
+      "type": "text",
+      "text": "## n8n\n\n- Workflows\n- Integrações\n- Automação",
+      "x": 0,
+      "y": 470,
+      "width": 150,
+      "height": 100
+    },
+    {
+      "id": "windmill",
+      "type": "text",
+      "text": "## Windmill\n\n- Scripts\n- Flows\n- Apps",
+      "x": 180,
+      "y": 470,
+      "width": 150,
+      "height": 100
+    },
+    {
+      "id": "deploy",
+      "type": "text",
+      "text": "## Deploy\n\n- Railway\n- Kubernetes\n- Docker",
+      "x": 360,
+      "y": 470,
+      "width": 150,
+      "height": 100
+    },
+    {
+      "id": "claude-code",
+      "type": "text",
+      "text": "## Claude Code\n\n- Coding Agent\n- Session Mgmt\n- Brain Integration",
+      "x": 540,
+      "y": 470,
+      "width": 150,
+      "height": 100
+    }
+  ],
+  "edges": [
+    {"id": "e1", "fromNode": "root", "toNode": "ai-agents", "fromSide": "bottom", "toSide": "top"},
+    {"id": "e2", "fromNode": "root", "toNode": "development", "fromSide": "bottom", "toSide": "top"},
+    {"id": "e3", "fromNode": "root", "toNode": "automation", "fromSide": "bottom", "toSide": "top"},
+    {"id": "e4", "fromNode": "root", "toNode": "business", "fromSide": "bottom", "toSide": "top"},
+    {"id": "e5", "fromNode": "root", "toNode": "learning", "fromSide": "bottom", "toSide": "top"},
+    {"id": "e6", "fromNode": "ai-agents", "toNode": "hermes", "fromSide": "bottom", "toSide": "top"},
+    {"id": "e7", "fromNode": "ai-agents", "toNode": "openclaw", "fromSide": "bottom", "toSide": "top"},
+    {"id": "e8", "fromNode": "ai-agents", "toNode": "sae", "fromSide": "bottom", "toSide": "top"},
+    {"id": "e9", "fromNode": "ai-agents", "toNode": "ares", "fromSide": "bottom", "toSide": "top"},
+    {"id": "e10", "fromNode": "business", "toNode": "synkroo", "fromSide": "bottom", "toSide": "top"},
+    {"id": "e11", "fromNode": "automation", "toNode": "n8n", "fromSide": "bottom", "toSide": "top"},
+    {"id": "e12", "fromNode": "automation", "toNode": "windmill", "fromSide": "bottom", "toSide": "top"},
+    {"id": "e13", "fromNode": "development", "toNode": "deploy", "fromSide": "bottom", "toSide": "top"},
+    {"id": "e14", "fromNode": "development", "toNode": "claude-code", "fromSide": "bottom", "toSide": "top"}
+  ]
+}

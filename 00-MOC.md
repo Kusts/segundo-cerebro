@@ -33,6 +33,8 @@ created: 2026-04-01
 |-----------|-----------|
 | [[Canvas: Skills Tree]] | Árvore de habilidades |
 | [[Canvas: Projects Overview]] | Visão de projetos |
+| [[Canvas: Knowledge Graph]] | Grafo de conhecimento |
+| [[Canvas: AI-Agent Architecture]] | Arquitetura AI-Agent |
 | [[Kanban: Synkroo]] | Quadro Synkroo |
 | [[Kanban: Hermes Development]] | Desenvolvimento Hermes |
 | [[SAE Dashboard]] | Sistema de Auto-Evolução |
@@ -65,6 +67,7 @@ created: 2026-04-01
 - [[Solutions]] - Soluções documentadas
 - [[Architecture]] - Arquiteturas de sistema
 - [[Claude-Code]] - Conhecimento Claude Code
+- [[Synkroo-Overview]] - Projeto SaaS clínicas
 
 ### 05-Skills
 - [[Skills Index]] - Índice de todas as skills
