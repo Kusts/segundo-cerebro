@@ -18,10 +18,13 @@ created: 2026-04-01
 ## 🚀 Projetos Ativos
 
 ### Synkroo
-- **Status:** 🟡 Em desenvolvimento
-- **Tipo:** Ecossistema SaaS
+- **Status:** 🟢 96% completo (Iteração 2.0)
+- **Tipo:** SaaS de automação com IA para clínicas
+- **Stack:** LaunchDarkly (Feature Flags), Multi-agent, Analytics
+- **Sprints:** Sprint 3-7 completas, Sprint 5 (Performance) 80%
 - **Docs:** [[Synkroo Overview]]
 - **Kanban:** [[Kanban: Synkroo]]
+- **Progresso:** [[10-Projects/Synkroo/2026/03/Iteracao-2-Synkroo-Progresso.md]]
 
 ### Hermes Agency
 - **Status:** 🟢 Operacional

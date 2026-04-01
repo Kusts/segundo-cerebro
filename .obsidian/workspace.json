@@ -220,6 +220,8 @@
   },
   "active": "86ea306d596f3694",
   "lastOpenFiles": [
+    "70-Archive/Logs/Vault-Reorganizacao-2026-04-01.md",
+    "70-Archive/Logs",
     "70-Archive/Temp-Limpados-2026-04-01/test-v3-final/SKILL.md",
     "70-Archive/Temp-Limpados-2026-04-01/test-v3-final",
     "70-Archive/Temp-Limpados-2026-04-01/test-skill-v3/SKILL.md",
@@ -249,14 +251,12 @@
     "70-Archive/Temp-Limpados-2026-04-01/task-note-1774556031603-s04r364ub.md",
     "70-Archive/Temp-Limpados-2026-04-01/task-note-1774555898100-nqwcj9cte.md",
     "70-Archive/Temp-Limpados-2026-04-01/task-note-1774555826509-1krwbir68.md",
-    "70-Archive/Temp-Limpados-2026-04-01/task-note-1774555811845-1rgpneqtx.md",
     "70-Archive/Temp-Limpados-2026-04-01",
     "Canvas Projects Overview.canvas",
     "Canvas Skills Tree.canvas",
     "99-Templates/scripts/vault-analise.sh",
     "99-Templates/scripts/search-by-tag.sh",
     "99-Templates/scripts/vault-search.sh",
-    "99-Templates/scripts/quick-note.sh",
-    "99-Templates/scripts/vault-stats.sh"
+    "99-Templates/scripts/quick-note.sh"
   ]
 }

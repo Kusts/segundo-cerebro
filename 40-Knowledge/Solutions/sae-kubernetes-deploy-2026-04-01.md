@@ -79,4 +79,4 @@ Este tutorial ensina como criar **agentes de inteligência artificial** utilizan
 - [[40-Knowledge/Solutions/sae-kubernetes-deploy-2026-03-30.md|SAE: kubernetes deploy]]
 
 ---
-*Criado: 2026-04-01 17:00*
+*Criado: 2026-04-01 17:05*

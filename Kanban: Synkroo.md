@@ -4,6 +4,8 @@ tags:
   - kanban
   - project
   - synkroo
+  - saas
+  - healthcare
 description: Kanban do Projeto Synkroo
 created: 2026-04-01
 ---
@@ -11,8 +13,9 @@ created: 2026-04-01
 # Kanban: Synkroo
 
 > [!info]+ Info
-> **Projeto:** Synkroo - Ecossistema SaaS
-> **Status:** Em Desenvolvimento
+> **Projeto:** Synkroo - SaaS de automação com IA para clínicas
+> **Status:** Em Desenvolvimento (96% - Iteração 2.0)
+> **Stack:** LaunchDarkly (Feature Flags), Multi-agent, Analytics
 > **Última atualização:** 2026-04-01
 
 ---
