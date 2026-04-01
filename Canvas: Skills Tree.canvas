@@ -1,0 +1,55 @@
+{
+  "nodes": [
+    {
+      "id": "skills-root",
+      "type": "text",
+      "text": "# 🌳 Skills Tree\n\n## Hierarquia de Habilidades\n\nWalis + Hermes Working Together",
+      "x": 400,
+      "y": 0,
+      "width": 300,
+      "height": 100
+    },
+    {
+      "id": "ai-agents",
+      "type": "text",
+      "text": "## 🤖 AI Agents\n\n- [[Skills: Claude Code]]\n- [[Skills: OpenClaw]]\n- [[Skills: SAE]]\n- [[Skills: Hermes]]\n- [[Skills: Multi-Agent]]",
+      "x": 0,
+      "y": 150,
+      "width": 200,
+      "height": 180
+    },
+    {
+      "id": "development",
+      "type": "text",
+      "text": "## 💻 Development\n\n- [[Skills: Python]]\n- [[Skills: TypeScript]]\n- [[Skills: Git]]\n- [[Skills: Docker]]\n- [[Skills: Testing]]",
+      "x": 250,
+      "y": 150,
+      "width": 200,
+      "height": 180
+    },
+    {
+      "id": "automation",
+      "type": "text",
+      "text": "## ⚡ Automation\n\n- [[Skills: n8n]]\n- [[Skills: Windmill]]\n- [[Skills: Chrome Auto]]\n- [[Skills: Web Scraping]]\n- [[Skills: APIs]]",
+      "x": 500,
+      "y": 150,
+      "width": 200,
+      "height": 180
+    },
+    {
+      "id": "business",
+      "type": "text",
+      "text": "## 💼 Business\n\n- [[Skills: SaaS]]\n- [[Skills: Marketing]]\n- [[Skills: Sales]]\n- [[Skills: Product]]\n- [[Skills: Agency]]",
+      "x": 750,
+      "y": 150,
+      "width": 200,
+      "height": 180
+    }
+  ],
+  "edges": [
+    {"id": "e1", "fromNode": "skills-root", "toNode": "ai-agents", "fromSide": "bottom", "toSide": "top"},
+    {"id": "e2", "fromNode": "skills-root", "toNode": "development", "fromSide": "bottom", "toSide": "top"},
+    {"id": "e3", "fromNode": "skills-root", "toNode": "automation", "fromSide": "bottom", "toSide": "top"},
+    {"id": "e4", "fromNode": "skills-root", "toNode": "business", "fromSide": "bottom", "toSide": "top"}
+  ]
+}

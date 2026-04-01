@@ -1,0 +1,50 @@
+{
+  "nodes": [
+    {
+      "id": "projects-header",
+      "type": "text",
+      "text": "# 📊 Projects Overview\n\nVisão geral dos projetos ativos\n\nWalis + Hermes",
+      "x": 350,
+      "y": -50,
+      "width": 300,
+      "height": 100
+    },
+    {
+      "id": "synkroo",
+      "type": "file",
+      "file": "Synkroo",
+      "x": 0,
+      "y": 100,
+      "width": 200,
+      "height": 150
+    },
+    {
+      "id": "hermes-dev",
+      "type": "file",
+      "file": "Hermes",
+      "x": 250,
+      "y": 100,
+      "width": 200,
+      "height": 150
+    },
+    {
+      "id": "sae",
+      "type": "file",
+      "file": "SAE",
+      "x": 500,
+      "y": 100,
+      "width": 200,
+      "height": 150
+    },
+    {
+      "id": "ares",
+      "type": "file",
+      "file": "ARES",
+      "x": 750,
+      "y": 100,
+      "width": 200,
+      "height": 150
+    }
+  ],
+  "edges": []
+}
