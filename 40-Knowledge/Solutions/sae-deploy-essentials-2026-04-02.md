@@ -2,18 +2,18 @@
 tags:
   - sae-solution
   - gap-resolution
-created: 2026-04-01
-gap: kubernetes deploy
+created: 2026-04-02
+gap: deploy essentials
 ---
 
-# SAE: kubernetes deploy
+# SAE: deploy essentials
 
 ## Problema
 Gap detectado e resolvido pelo SAE Auto-Evolution
 
 ## Solução
 
-### De: SAE: kubernetes deploy
+### De: SAE: deploy essentials
 
 有用内容：
 
@@ -25,7 +25,7 @@ Este tutorial ensina como criar **agentes de inteligência artificial** utilizan
 
 ---
 
-### De: SAE: kubernetes deploy
+### De: SAE: deploy essentials
 
 有用内容：
 
@@ -49,7 +49,7 @@ Este tutorial ensina como criar **agentes de inteligência artificial** utilizan
 
 ---
 
-### De: SAE: deploy essentials
+### De: SAE: kubernetes deploy
 
 有用内容：
 
@@ -72,11 +72,11 @@ Este tutorial ensina como criar **agentes de inteligência artificial** utilizan
 - **S**ingle Responsibility Principle - Uma classe, uma responsabilidade - **O**pen/Closed Principle - Aberto para extensão, fechado para modificação - **L**isk
 
 ### Fontes:
-- [[40-Knowledge/Solutions/sae-kubernetes-deploy-2026-03-31.md|SAE: kubernetes deploy]]
-- [[40-Knowledge/Solutions/sae-kubernetes-deploy-2026-04-01.md|SAE: kubernetes deploy]]
 - [[40-Knowledge/Solutions/sae-deploy-essentials-2026-03-31.md|SAE: deploy essentials]]
 - [[40-Knowledge/Solutions/sae-deploy-essentials-2026-04-01.md|SAE: deploy essentials]]
-- [[40-Knowledge/Solutions/sae-kubernetes-deploy-2026-03-30.md|SAE: kubernetes deploy]]
+- [[40-Knowledge/Solutions/sae-deploy-essentials-2026-04-02.md|SAE: deploy essentials]]
+- [[40-Knowledge/Solutions/sae-kubernetes-deploy-2026-03-31.md|SAE: kubernetes deploy]]
+- [[40-Knowledge/Solutions/sae-kubernetes-deploy-2026-04-01.md|SAE: kubernetes deploy]]
 
 ---
-*Criado: 2026-04-01 23:55*
+*Criado: 2026-04-02 03:27*
