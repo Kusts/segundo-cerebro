@@ -1,3 +1,9 @@
+---
+created: 2026-04-03
+tags: []
+type: note
+---
+
 # Descoberta: Chrome Headful para Perplexity + Integração SAE
 
 **Data:** 2026-04-03

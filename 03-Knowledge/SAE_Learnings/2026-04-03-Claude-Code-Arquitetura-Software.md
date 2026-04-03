@@ -1,3 +1,9 @@
+---
+created: 2026-04-03
+tags: []
+type: note
+---
+
 # Claude Code — Arquitetura de Software e AI Agents
 
 **Data:** 2026-04-03  

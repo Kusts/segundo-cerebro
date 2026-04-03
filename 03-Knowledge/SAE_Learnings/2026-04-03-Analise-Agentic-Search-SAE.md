@@ -1,3 +1,9 @@
+---
+created: 2026-04-03
+tags: []
+type: note
+---
+
 # Análise: Agentic Search no SAE Context
 
 **Data:** 2026-04-03  

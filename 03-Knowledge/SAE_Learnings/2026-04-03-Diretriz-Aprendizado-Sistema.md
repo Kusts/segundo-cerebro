@@ -1,3 +1,9 @@
+---
+created: 2026-04-03
+tags: []
+type: note
+---
+
 # Diretriz: Sistema de Aprendizado Contínuo
 
 **Data:** 2026-04-03  

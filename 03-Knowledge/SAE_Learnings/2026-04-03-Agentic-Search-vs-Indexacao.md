@@ -1,3 +1,9 @@
+---
+created: 2026-04-03
+tags: []
+type: note
+---
+
 # Agentic Search vs Traditional Indexation
 
 **Data:** 2026-04-03  

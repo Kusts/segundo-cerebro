@@ -1,3 +1,9 @@
+---
+created: 2026-04-03
+tags: []
+type: note
+---
+
 # Governança de Auto-Aprimoramento
 
 **Data:** 2026-04-03  

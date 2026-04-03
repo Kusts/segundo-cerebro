@@ -1,3 +1,9 @@
+---
+created: 2026-04-03
+tags: []
+type: note
+---
+
 # Hermes Agent — Comparação: NousResearch vs Instalação Local
 
 **Data:** 2026-04-03

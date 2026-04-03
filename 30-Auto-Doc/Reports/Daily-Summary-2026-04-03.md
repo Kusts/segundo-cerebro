@@ -14,7 +14,7 @@ description: Resumo diário automático
 ## 🕐 Timestamp
 
 ```
-Gerado: Fri Apr  3 09:00:36 -03 2026
+Gerado: Fri Apr  3 18:00:29 -03 2026
 ```
 
 ---
@@ -23,10 +23,10 @@ Gerado: Fri Apr  3 09:00:36 -03 2026
 
 | Métrica | Valor |
 |---------|-------|
-| Total notas | 1131 |
-| Notas hoje | 416 |
+| Total notas | 1147 |
+| Notas hoje | 16 |
 | Pastas | 377 |
-| Git changes | 4 |
+| Git changes | 8 |
 
 ---
 
