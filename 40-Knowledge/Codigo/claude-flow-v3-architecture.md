@@ -1,3 +1,9 @@
+---
+created: 2026-04-04
+tags: []
+type: note
+---
+
 # Claude Flow V3 - Arquitectura Tcnica Detalhada
 
 > **Monorepo TypeScript** | Verso 3.0.0-alpha.1 | Modular AI Agent Coordination System

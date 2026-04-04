@@ -1,3 +1,9 @@
+---
+created: 2026-04-04
+tags: []
+type: note
+---
+
 # Hermes SAE × Claude Flow V3 — Análise de Gap e Oportunidades de Melhoria
 
 **Data:** 2026-04-03

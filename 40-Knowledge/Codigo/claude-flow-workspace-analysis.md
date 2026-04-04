@@ -1,3 +1,9 @@
+---
+created: 2026-04-04
+tags: []
+type: note
+---
+
 # Claude Code Workspace Analysis
 
 **Generated:** 2026-04-03  

@@ -1,3 +1,9 @@
+---
+created: 2026-04-04
+tags: []
+type: note
+---
+
 # Claude Flow V3 — Config, Rules & Behavioural Guide
 
 **Data:** 2026-04-03
