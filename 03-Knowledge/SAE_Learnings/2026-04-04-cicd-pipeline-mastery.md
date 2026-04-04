@@ -1,3 +1,9 @@
+---
+created: 2026-04-04
+tags: []
+type: note
+---
+
 # cicd-pipeline-mastery
 
 > **Prioridade**: MEDIUM | **Fonte**: specialist-system
@@ -14,4 +20,3 @@
 - **Processado por**: SAE Learning Processor v3.4
 - **Priority Score**: 0.00
 - **Tags**: #sae #aprendizado #general
-
